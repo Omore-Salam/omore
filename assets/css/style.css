@@ -112,6 +112,7 @@ h6 {
     padding: 0;
     margin: 0;
     max-height: 60px;
+    border-radius: 50px;
 }
 
 
@@ -673,8 +674,8 @@ section {
 }
 
 .education .nav-link i {
-    padding-right: 15px;
-    font-size: 40px;
+    padding-right: 13px;
+    font-size: 30px;
 }
 
 .education .nav-link h4 {
